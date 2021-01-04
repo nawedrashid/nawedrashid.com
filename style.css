@@ -1,9 +1,51 @@
 h1{
-    color:green
+    color:white;
+    background:blue;
 }
 h2{
     font-style:italic;
-    color:teal 
+    color:teal;
 }
 body{
-    background-color:yellow
+    border: solid black 5px;
+    background: url(https://tse2.mm.bing.net/th?id=OIP.AIo0ahwdE9jWSftdIDAEUAHaEC&pid=Api&P=0&w=275&h=151) no-repeat;
+    background-size: contain;
+}
+img{
+    border: black groove 5px;
+}
+a{
+    color: white;
+    background-color: teal;
+    border-radius: 5px;
+}
+#vib{
+    font-family: 'Goudy Bookletter 1911', serif;
+    text-align: center;
+}
+td {
+    height:300px;
+    width:150px;
+    border: 6px solid white;
+}
+#one{
+    background: #9400D3;
+}
+#two{
+    background: #4B0082;
+}
+#three{
+    background: #0000FF ;
+}
+#four{
+    background: #00FF00 ;
+}
+#five{
+    background: #FFFF00;
+}
+#six{
+    background: #FF7F00;
+}
+#seven{
+    background: #FF0000;
+}
